@@ -78,7 +78,7 @@ body {
 }
 
 .banner a:focus {
-  outline: 3px solif #fff;
+  outline: 3px solid #fff;
 }
 
 .banner div {
