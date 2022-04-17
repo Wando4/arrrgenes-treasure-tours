@@ -59,7 +59,7 @@ body {
 .nav a:focus,
 .nav a:hover {
   color: #fff;
-  outline: .25em solid #fff;
+  outline: .5em solid #fff;
 }
 
 .banner {
