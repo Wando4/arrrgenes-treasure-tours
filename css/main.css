@@ -56,7 +56,14 @@ body {
   text-decoration: none;
 }
 
+.nav a:focus,
+.nav a:hover {
+  color: #fff;
+  outline: .25em solid #fff;
+}
+
 .banner {
+  background-color: #522806;
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr;
